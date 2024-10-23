@@ -1,0 +1,3 @@
+﻿  sp.cpp
+C:\Users\zeroripper\source\repos\sp\sp\sp.cpp(223,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  sp.vcxproj -> C:\Users\zeroripper\source\repos\sp\Debug\sp.exe
